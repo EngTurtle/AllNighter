@@ -1,1 +1,1 @@
-web: gunicorn AllNIghter.wsgi --log-file -
+web: gunicorn AllNighter.wsgi --log-file -
