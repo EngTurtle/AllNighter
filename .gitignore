@@ -1,9 +1,9 @@
 # Windows image file caches
-Thumbs.db
-ehthumbs.db
+*Thumbs.db
+*ehthumbs.db
 
 # Folder config file
-Desktop.ini
+*Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -45,6 +45,6 @@ Temporary Items
 # ==============================
 # Dev env
 # ==============================
-.pyc
+*.pyc
 .idea
 db.sqlite3
