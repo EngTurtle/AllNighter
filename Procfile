@@ -1,1 +1,1 @@
-web: gunicorn ShootTheDark.wsgi --log-file -
+web: gunicorn AllNIghter.wsgi --log-file -
